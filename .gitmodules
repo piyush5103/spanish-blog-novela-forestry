@@ -1,4 +1,4 @@
 [submodule "themes/novela"]
 	path = themes/novela
-	url = https://github.com/piyush5103/novela-blob.git
 	branch = master
+	url = https://github.com/piyush5103/novela-blob.git
