@@ -17,17 +17,12 @@ Recientemente, vi una película que se llama Toc Toc. El título Toc Toc es muy 
 
 Sabías que la película Tok Tok es una adaptación de la obra teatral homónima del comediógrafo francés Laurent Baffie. De hecho, ambas obras tienen personajes del mismos nombres. Antes de ser traducido e interpretado en España, Toc Toc se representó en Francia durante dos y medio años.
 
-| --- |
-| El Elenco de Tok Tok |
-| Personaje | Actor/Actriz | Tipo de TOC |
-| Federico | Oscar Martinez | Sindrome de Tourette |
-| Emilio | Paco Leon | Obsesión por calcularArithmomaniaSindrome de diogenes |
-| Blanca | Alexandra Jimenez | Obsesionada con los gérmenes y las bacterias |
-| Lilliana / Lili | Nuria Herrero | Repite todas las frases |
-| Ana Maria Virginia Galindo de la Mata | Rossy de Palma | Trastorno compulsivo de verificación |
-| Manolo (Otto) | Adrian Lastra | Evita caminar en líneas rectas |
-| Tiffany | Inma Cuevas | Ninguna (Era la recepcionista) |
-| Natalia | Ana Rujas | Ningina (Era ex novia de Otto) |
+| Option | Description |
+| ------ | ----------- |
+| data   | path to data files to supply the data that will be passed into templates. |
+| engine | engine to be used for processing templates. Handlebars is the default. |
+| ext    | extension to be used for dest files. |
+
 
 ### **¿Que es TOC?**
 
