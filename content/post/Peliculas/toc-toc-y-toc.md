@@ -2,7 +2,7 @@
 authors = ["Piyush Pahuja"]
 date = 2020-06-30T11:06:00Z
 excerpt = ""
-hero = ""
+hero = "/images/toctoc.jpg"
 timeToRead = 7
 title = "Toc Toc y TOC"
 
