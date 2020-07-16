@@ -30,6 +30,12 @@ Sabías que la película Tok Tok es una adaptación de la obra teatral homónima
 | Tiffany | Inma Cuevas | Ninguna (Era la recepcionista) |
 | Natalia | Ana Rujas | Ningina (Era ex novia de Otto) |
 
+<center>Centered text</center>
+
+<p style="text-align: center;">p tags</p>
+
+[![](http://img.youtube.com/vi/wIgtBUIOb4c/0.jpg)](http://www.youtube.com/watch?v=wIgtBUIOb4c)
+
 ### ¿Que es TOC?
 
 El trastorno obsesivo compulsivo (TOC) es un trastorno mental que incluye obsesiones, compulsiones o ambas. Una obsesión es cuando no se puede dejar de pensar algo cosas, incluso si realmente quería. Esto puede ser cualquier cosa - preocupaciones, ideas, imágenes, impulsos etc. Como resultado, una persona se vuelve muy ansiosa y incomoda. Una compulsión es una fuerte necesidad de hacer algo repetidamente aunque no quieras. Por ejemplo, si estás obsesionada con los gérmenes y las bacterias - como Blanca - puede tener la compulsión de lavarse las manos repetidamente a pesar de que tus manos no están sucias.
