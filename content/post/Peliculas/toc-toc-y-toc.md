@@ -32,8 +32,9 @@ Sabías que la película Tok Tok es una adaptación de la obra teatral homónima
 
 <center>Centered text</center>
 
+<p style="text-align: center;">p tags</p>
 
-[![](http://img.youtube.com/vi/wIgtBUIOb4c/0.jpg)](http://www.youtube.com/watch?v=wIgtBUIOb4c "")
+[![](http://img.youtube.com/vi/wIgtBUIOb4c/0.jpg)](http://www.youtube.com/watch?v=wIgtBUIOb4c)
 
 ### ¿Que es TOC?
 
