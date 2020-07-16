@@ -1,0 +1,44 @@
++++
+authors = ["Piyush Pahuja"]
+date = 2020-06-30T11:06:00Z
+excerpt = ""
+hero = ""
+timeToRead = 7
+title = "Toc Toc y TOC"
+
++++
+Toc Toc
+
+¡Que Bien! Mi primer post.
+
+Trastorno Obsesivo Compulsivo. También conocido como TOC o OCD en inglés. En esta post, me gustaría hablar sobre eso.
+
+Recientemente, vi una película que se llama Toc Toc. El título Toc Toc es muy inteligente porque es tanto la onomatopeya para “knock” o “golpe” como la abreviatura de OCD en inglés. La película es sobre una historia phenomenal de seis pacientes que padecen distintos trastornos obsesivo compulsivos - por ejemplo, Blanca está obsesionada con los gérmenes y las bacterias. Otros personajes tienen otras variadas de TOC (vea la tabla de abajo). Esas seis personas aguardan en la sala de espera en la oficina de la consulta del Dr Palomero - un especialista de psicología muy famoso. Por causas desconocidas, el médico está atrapado en un avión o un aeropuerto en otra país - no es muy claro. Pero, después de cansarse esperando, los seis personajes empiezan a interactuar organizando su propio tipo de terapia grupal. La historia se desarrolla y se convierte muy interesante y divertido cuando los personajes se abren y revelan sus propios fondos únicos.
+
+Sabías que la película Tok Tok es una adaptación de la obra teatral homónima del comediógrafo francés Laurent Baffie. De hecho, ambas obras tienen personajes del mismos nombres. Antes de ser traducido e interpretado en España, Toc Toc se representó en Francia durante dos y medio años.
+
+| --- |
+| El Elenco de Tok Tok |
+| Personaje | Actor/Actriz | Tipo de TOC |
+| Federico | Oscar Martinez | Sindrome de Tourette |
+| Emilio | Paco Leon | Obsesión por calcularArithmomaniaSindrome de diogenes |
+| Blanca | Alexandra Jimenez | Obsesionada con los gérmenes y las bacterias |
+| Lilliana / Lili | Nuria Herrero | Repite todas las frases |
+| Ana Maria Virginia Galindo de la Mata | Rossy de Palma | Trastorno compulsivo de verificación |
+| Manolo (Otto) | Adrian Lastra | Evita caminar en líneas rectas |
+| Tiffany | Inma Cuevas | Ninguna (Era la recepcionista) |
+| Natalia | Ana Rujas | Ningina (Era ex novia de Otto) |
+
+### **¿Que es TOC?**
+
+El trastorno obsesivo compulsivo (TOC) es un trastorno mental que incluye obsesiones, compulsiones o ambas. Una obsesión es cuando no se puede dejar de pensar algo cosas, incluso si realmente quería. Esto puede ser cualquier cosa - preocupaciones, ideas, imágenes, impulsos etc. Como resultado, una persona se vuelve muy ansiosa y incomoda. Una compulsión es una fuerte necesidad de hacer algo repetidamente aunque no quieras. Por ejemplo, si estás obsesionada con los gérmenes y las bacterias - como Blanca - puede tener la compulsión de lavarse las manos repetidamente a pesar de que tus manos no están sucias.
+
+### **¿Cuántas personas tienen TOC?**
+
+Según la BBC, aproximadamente una de cada 50 personas se ven afectadas por este trastorno en algún momento de su vida. Pero este número podría ser mayor debido a que mucha gente con TOC prefiere esconder su padecimiento. Es evidente en la película cuando Ana Marie seguía diciendo que estaba allí para un amigo. Estaba tratando de ocultar su condición porque no es ampliamente aceptada en la comunidad. Este es un gran problema en el mundo de hoy, especialmente en algunos países como India. Es necesario que entendamos los trastornos y tratemos las personas con TOC o cualquier otro trastorno.
+
+Como Lili mencionó con razón en Toc Toc, somos una comunidad y necesitamos tener solidaridad si queremos prosperar y tener éxito.
+
+Mantente seguro. Use una mascara. Ten cuidado.
+
+Nos vemos pronto. :)
