@@ -1,7 +1,7 @@
 ---
 title: Piyush Pahuja
 bio: |
-  Un estudiante
+  Un Estudiante de DAIS
 avatar: /images/piyush.jpg
 featured: true
 social:
