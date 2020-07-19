@@ -1,9 +1,9 @@
 +++
 authors = ["Piyush Pahuja"]
 date = 2020-06-20T06:39:00Z
-excerpt = ""
-hero = ""
-timeToRead = 1
+excerpt = "Bienvenido a mi blog."
+hero = "/images/bienvenidos.jpg"
+timeToRead = 2
 title = "¡Bienvenido!"
 
 +++
