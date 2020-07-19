@@ -30,11 +30,9 @@ Sabías que la película Tok Tok es una adaptación de la obra teatral homónima
 | Tiffany | Inma Cuevas | Ninguna (Era la recepcionista) |
 | Natalia | Ana Rujas | Ningina (Era ex novia de Otto) |
 
-<center>Centered text</center>
 
-<p style="text-align: center;">p tags</p>
 
-[![](http://img.youtube.com/vi/wIgtBUIOb4c/0.jpg)](http://www.youtube.com/watch?v=wIgtBUIOb4c)
+[![](https://img.youtube.com/vi/wIgtBUIOb4c/0.jpg)](https://www.youtube.com/watch?v=wIgtBUIOb4c)
 
 ### ¿Que es TOC?
 
