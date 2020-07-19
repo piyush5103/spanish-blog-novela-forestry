@@ -2,7 +2,7 @@
 authors = ["Piyush Pahuja"]
 date = 2020-06-20T06:39:00Z
 excerpt = ""
-hero = ""
+hero = "/images/bienvenidos.jpg"
 timeToRead = 1
 title = "¡Bienvenido!"
 
